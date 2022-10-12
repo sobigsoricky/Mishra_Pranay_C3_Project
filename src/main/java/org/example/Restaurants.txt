@@ -1,0 +1,5 @@
+Ganga Dhaba,JNU, 12:00:00,02:00:00
+La Cantine,DLF Promenade,10:00:00,22:00:00
+Plate,DlF Promenade,10:00:00,23:00:00
+Singi's Restaurant,Munirka,11:00:00,23:45:00
+Gabbar's,Munirka,11:00:00,23:45:00
